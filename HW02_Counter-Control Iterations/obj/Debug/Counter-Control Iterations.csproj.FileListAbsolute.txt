@@ -1,0 +1,7 @@
+C:\Users\DELL11\source\repos\Counter-Control Iterations\bin\Debug\Counter-Control Iterations.exe.config
+C:\Users\DELL11\source\repos\Counter-Control Iterations\bin\Debug\Counter-Control Iterations.exe
+C:\Users\DELL11\source\repos\Counter-Control Iterations\bin\Debug\Counter-Control Iterations.pdb
+C:\Users\DELL11\source\repos\Counter-Control Iterations\obj\Debug\Counter-Control Iterations.csprojAssemblyReference.cache
+C:\Users\DELL11\source\repos\Counter-Control Iterations\obj\Debug\Counter-Control Iterations.csproj.CoreCompileInputs.cache
+C:\Users\DELL11\source\repos\Counter-Control Iterations\obj\Debug\Counter-Control Iterations.exe
+C:\Users\DELL11\source\repos\Counter-Control Iterations\obj\Debug\Counter-Control Iterations.pdb
