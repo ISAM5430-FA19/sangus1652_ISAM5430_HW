@@ -1,0 +1,7 @@
+C:\Users\DELL11\source\repos\HW02\bin\Debug\HW02.exe.config
+C:\Users\DELL11\source\repos\HW02\bin\Debug\HW02.exe
+C:\Users\DELL11\source\repos\HW02\bin\Debug\HW02.pdb
+C:\Users\DELL11\source\repos\HW02\obj\Debug\HW02.csprojAssemblyReference.cache
+C:\Users\DELL11\source\repos\HW02\obj\Debug\HW02.csproj.CoreCompileInputs.cache
+C:\Users\DELL11\source\repos\HW02\obj\Debug\HW02.exe
+C:\Users\DELL11\source\repos\HW02\obj\Debug\HW02.pdb
