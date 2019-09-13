@@ -1,0 +1,7 @@
+C:\Users\DELL11\source\repos\GPA to Lettergrade\bin\Debug\GPA to Lettergrade.exe.config
+C:\Users\DELL11\source\repos\GPA to Lettergrade\bin\Debug\GPA to Lettergrade.exe
+C:\Users\DELL11\source\repos\GPA to Lettergrade\bin\Debug\GPA to Lettergrade.pdb
+C:\Users\DELL11\source\repos\GPA to Lettergrade\obj\Debug\GPA to Lettergrade.csprojAssemblyReference.cache
+C:\Users\DELL11\source\repos\GPA to Lettergrade\obj\Debug\GPA to Lettergrade.csproj.CoreCompileInputs.cache
+C:\Users\DELL11\source\repos\GPA to Lettergrade\obj\Debug\GPA to Lettergrade.exe
+C:\Users\DELL11\source\repos\GPA to Lettergrade\obj\Debug\GPA to Lettergrade.pdb

@@ -1,0 +1,7 @@
+C:\Users\DELL11\source\repos\divisible by 3 or5 not both\bin\Debug\divisible by 3 or5 not both.exe.config
+C:\Users\DELL11\source\repos\divisible by 3 or5 not both\bin\Debug\divisible by 3 or5 not both.exe
+C:\Users\DELL11\source\repos\divisible by 3 or5 not both\bin\Debug\divisible by 3 or5 not both.pdb
+C:\Users\DELL11\source\repos\divisible by 3 or5 not both\obj\Debug\divisible by 3 or5 not both.csprojAssemblyReference.cache
+C:\Users\DELL11\source\repos\divisible by 3 or5 not both\obj\Debug\divisible by 3 or5 not both.csproj.CoreCompileInputs.cache
+C:\Users\DELL11\source\repos\divisible by 3 or5 not both\obj\Debug\divisible by 3 or5 not both.exe
+C:\Users\DELL11\source\repos\divisible by 3 or5 not both\obj\Debug\divisible by 3 or5 not both.pdb

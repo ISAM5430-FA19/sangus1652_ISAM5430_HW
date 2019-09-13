@@ -1,0 +1,7 @@
+C:\Users\DELL11\source\repos\HalfofPreviousInteger\bin\Debug\HalfofPreviousInteger.exe.config
+C:\Users\DELL11\source\repos\HalfofPreviousInteger\bin\Debug\HalfofPreviousInteger.exe
+C:\Users\DELL11\source\repos\HalfofPreviousInteger\bin\Debug\HalfofPreviousInteger.pdb
+C:\Users\DELL11\source\repos\HalfofPreviousInteger\obj\Debug\HalfofPreviousInteger.csprojAssemblyReference.cache
+C:\Users\DELL11\source\repos\HalfofPreviousInteger\obj\Debug\HalfofPreviousInteger.csproj.CoreCompileInputs.cache
+C:\Users\DELL11\source\repos\HalfofPreviousInteger\obj\Debug\HalfofPreviousInteger.exe
+C:\Users\DELL11\source\repos\HalfofPreviousInteger\obj\Debug\HalfofPreviousInteger.pdb

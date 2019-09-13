@@ -1,0 +1,7 @@
+C:\Users\DELL11\source\repos\Fibonacci numbers\bin\Debug\Fibonacci numbers.exe.config
+C:\Users\DELL11\source\repos\Fibonacci numbers\bin\Debug\Fibonacci numbers.exe
+C:\Users\DELL11\source\repos\Fibonacci numbers\bin\Debug\Fibonacci numbers.pdb
+C:\Users\DELL11\source\repos\Fibonacci numbers\obj\Debug\Fibonacci numbers.csprojAssemblyReference.cache
+C:\Users\DELL11\source\repos\Fibonacci numbers\obj\Debug\Fibonacci numbers.csproj.CoreCompileInputs.cache
+C:\Users\DELL11\source\repos\Fibonacci numbers\obj\Debug\Fibonacci numbers.exe
+C:\Users\DELL11\source\repos\Fibonacci numbers\obj\Debug\Fibonacci numbers.pdb
