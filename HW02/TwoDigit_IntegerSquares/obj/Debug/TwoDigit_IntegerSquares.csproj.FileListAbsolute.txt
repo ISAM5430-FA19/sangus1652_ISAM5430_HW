@@ -1,0 +1,7 @@
+C:\Users\DELL11\source\repos\TwoDigit_IntegerSquares\bin\Debug\TwoDigit_IntegerSquares.exe.config
+C:\Users\DELL11\source\repos\TwoDigit_IntegerSquares\bin\Debug\TwoDigit_IntegerSquares.exe
+C:\Users\DELL11\source\repos\TwoDigit_IntegerSquares\bin\Debug\TwoDigit_IntegerSquares.pdb
+C:\Users\DELL11\source\repos\TwoDigit_IntegerSquares\obj\Debug\TwoDigit_IntegerSquares.csprojAssemblyReference.cache
+C:\Users\DELL11\source\repos\TwoDigit_IntegerSquares\obj\Debug\TwoDigit_IntegerSquares.csproj.CoreCompileInputs.cache
+C:\Users\DELL11\source\repos\TwoDigit_IntegerSquares\obj\Debug\TwoDigit_IntegerSquares.exe
+C:\Users\DELL11\source\repos\TwoDigit_IntegerSquares\obj\Debug\TwoDigit_IntegerSquares.pdb
