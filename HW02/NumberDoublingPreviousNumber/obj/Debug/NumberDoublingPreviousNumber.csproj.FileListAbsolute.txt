@@ -1,0 +1,7 @@
+C:\Users\DELL11\source\repos\NumberDoublingPreviousNumber\bin\Debug\NumberDoublingPreviousNumber.exe.config
+C:\Users\DELL11\source\repos\NumberDoublingPreviousNumber\bin\Debug\NumberDoublingPreviousNumber.exe
+C:\Users\DELL11\source\repos\NumberDoublingPreviousNumber\bin\Debug\NumberDoublingPreviousNumber.pdb
+C:\Users\DELL11\source\repos\NumberDoublingPreviousNumber\obj\Debug\NumberDoublingPreviousNumber.csprojAssemblyReference.cache
+C:\Users\DELL11\source\repos\NumberDoublingPreviousNumber\obj\Debug\NumberDoublingPreviousNumber.csproj.CoreCompileInputs.cache
+C:\Users\DELL11\source\repos\NumberDoublingPreviousNumber\obj\Debug\NumberDoublingPreviousNumber.exe
+C:\Users\DELL11\source\repos\NumberDoublingPreviousNumber\obj\Debug\NumberDoublingPreviousNumber.pdb

@@ -1,0 +1,6 @@
+C:\Users\DELL11\source\repos\positive numbers_multiples of ten\bin\Debug\positive numbers_multiples of ten.exe.config
+C:\Users\DELL11\source\repos\positive numbers_multiples of ten\bin\Debug\positive numbers_multiples of ten.exe
+C:\Users\DELL11\source\repos\positive numbers_multiples of ten\bin\Debug\positive numbers_multiples of ten.pdb
+C:\Users\DELL11\source\repos\positive numbers_multiples of ten\obj\Debug\positive numbers_multiples of ten.csproj.CoreCompileInputs.cache
+C:\Users\DELL11\source\repos\positive numbers_multiples of ten\obj\Debug\positive numbers_multiples of ten.exe
+C:\Users\DELL11\source\repos\positive numbers_multiples of ten\obj\Debug\positive numbers_multiples of ten.pdb

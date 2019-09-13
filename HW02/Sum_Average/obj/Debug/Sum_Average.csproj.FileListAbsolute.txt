@@ -1,0 +1,7 @@
+C:\Users\DELL11\source\repos\Sum_Average\bin\Debug\Sum_Average.exe.config
+C:\Users\DELL11\source\repos\Sum_Average\bin\Debug\Sum_Average.exe
+C:\Users\DELL11\source\repos\Sum_Average\bin\Debug\Sum_Average.pdb
+C:\Users\DELL11\source\repos\Sum_Average\obj\Debug\Sum_Average.csproj.CoreCompileInputs.cache
+C:\Users\DELL11\source\repos\Sum_Average\obj\Debug\Sum_Average.exe
+C:\Users\DELL11\source\repos\Sum_Average\obj\Debug\Sum_Average.pdb
+C:\Users\DELL11\source\repos\Sum_Average\obj\Debug\Sum_Average.csprojAssemblyReference.cache

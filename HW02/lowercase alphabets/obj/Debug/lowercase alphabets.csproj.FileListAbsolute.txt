@@ -1,0 +1,6 @@
+C:\Users\DELL11\source\repos\lowercase alphabets\bin\Debug\lowercase alphabets.exe.config
+C:\Users\DELL11\source\repos\lowercase alphabets\bin\Debug\lowercase alphabets.exe
+C:\Users\DELL11\source\repos\lowercase alphabets\bin\Debug\lowercase alphabets.pdb
+C:\Users\DELL11\source\repos\lowercase alphabets\obj\Debug\lowercase alphabets.csproj.CoreCompileInputs.cache
+C:\Users\DELL11\source\repos\lowercase alphabets\obj\Debug\lowercase alphabets.exe
+C:\Users\DELL11\source\repos\lowercase alphabets\obj\Debug\lowercase alphabets.pdb

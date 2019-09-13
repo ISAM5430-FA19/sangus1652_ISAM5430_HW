@@ -1,0 +1,7 @@
+C:\Users\DELL11\source\repos\Single_ControlVariable\bin\Debug\Single_ControlVariable.exe.config
+C:\Users\DELL11\source\repos\Single_ControlVariable\bin\Debug\Single_ControlVariable.exe
+C:\Users\DELL11\source\repos\Single_ControlVariable\bin\Debug\Single_ControlVariable.pdb
+C:\Users\DELL11\source\repos\Single_ControlVariable\obj\Debug\Single_ControlVariable.csprojAssemblyReference.cache
+C:\Users\DELL11\source\repos\Single_ControlVariable\obj\Debug\Single_ControlVariable.csproj.CoreCompileInputs.cache
+C:\Users\DELL11\source\repos\Single_ControlVariable\obj\Debug\Single_ControlVariable.exe
+C:\Users\DELL11\source\repos\Single_ControlVariable\obj\Debug\Single_ControlVariable.pdb

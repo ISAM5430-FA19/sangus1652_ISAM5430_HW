@@ -1,0 +1,7 @@
+C:\Users\DELL11\source\repos\Positive and even numbers\bin\Debug\Positive and even numbers.exe.config
+C:\Users\DELL11\source\repos\Positive and even numbers\bin\Debug\Positive and even numbers.exe
+C:\Users\DELL11\source\repos\Positive and even numbers\bin\Debug\Positive and even numbers.pdb
+C:\Users\DELL11\source\repos\Positive and even numbers\obj\Debug\Positive and even numbers.csproj.CoreCompileInputs.cache
+C:\Users\DELL11\source\repos\Positive and even numbers\obj\Debug\Positive and even numbers.exe
+C:\Users\DELL11\source\repos\Positive and even numbers\obj\Debug\Positive and even numbers.pdb
+C:\Users\DELL11\source\repos\Positive and even numbers\obj\Debug\Positive and even numbers.csprojAssemblyReference.cache

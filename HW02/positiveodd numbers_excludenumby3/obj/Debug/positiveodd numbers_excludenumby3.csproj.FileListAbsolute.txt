@@ -1,0 +1,6 @@
+C:\Users\DELL11\source\repos\positiveodd numbers_excludenumby3\bin\Debug\positiveodd numbers_excludenumby3.exe.config
+C:\Users\DELL11\source\repos\positiveodd numbers_excludenumby3\bin\Debug\positiveodd numbers_excludenumby3.exe
+C:\Users\DELL11\source\repos\positiveodd numbers_excludenumby3\bin\Debug\positiveodd numbers_excludenumby3.pdb
+C:\Users\DELL11\source\repos\positiveodd numbers_excludenumby3\obj\Debug\positiveodd numbers_excludenumby3.csproj.CoreCompileInputs.cache
+C:\Users\DELL11\source\repos\positiveodd numbers_excludenumby3\obj\Debug\positiveodd numbers_excludenumby3.exe
+C:\Users\DELL11\source\repos\positiveodd numbers_excludenumby3\obj\Debug\positiveodd numbers_excludenumby3.pdb
